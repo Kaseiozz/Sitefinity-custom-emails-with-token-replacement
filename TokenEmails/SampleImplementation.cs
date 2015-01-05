@@ -3,7 +3,7 @@ using Telerik.Sitefinity.Security.Model;
 
 namespace TokenEmails
 {
-    class SampleImplementation
+    public class SampleImplementation
     {
         private bool SendEmail( User user, string emailAddress)
         {
